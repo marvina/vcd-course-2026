@@ -12,12 +12,9 @@
 
 ## 📁 核心文件结构
 
-- `index.html`: 主看板与交互式周历界面
-- `course.html` / `dashboard_v2.html`: 课程看板多视图入口
-- `schedule_data.json`: 结构化课程全量数据库
+- `index.html`: 主看板与交互式周历界面（完整内嵌交互系统与全部课程数据库）
+- `svcd.png`: 视觉传达设计学院标志
 - `teacher_photos/`: 全院教师头像资源库
-- `teacher_map.json`: 教师信息与头像映射索引
-- `scripts/`: 数据清洗、OCR还原与排课冲突分析工具脚本
 
 ## 🚀 部署与访问
 

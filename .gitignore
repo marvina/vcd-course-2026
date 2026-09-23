@@ -9,7 +9,20 @@
 __pycache__/
 *.py[cod]
 *$py.class
+scripts/
 
-# Backups
-*.backup.*
+# Raw Documents & Backups
+*.docx
+*.pdf
 *.bak
+*.backup.*
+
+# Intermediate / Extraction files
+page_*.png
+9eca487d63fe5d65aed41d63bbfbdc87.jpg
+truth_cells.json
+week_diff.json
+course.html
+dashboard_v2.html
+schedule_data.json
+teacher_map.json
